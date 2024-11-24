@@ -1,6 +1,6 @@
 ## Hi there, I'm William, a first-year math student at the University of Waterloo! 👋
 
-📫 How to reach me:
+<h> 📫 How to reach me: </h>
 Email: william.dai@uwaterloo.ca
 LinkedIn: in/william-dai-uw/
 
