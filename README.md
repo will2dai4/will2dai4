@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm William, a first-year math student at the University of Waterloo! 👋
+
+## 📫 How to reach me:
+## Email: william.dai@uwaterloo.ca
+## LinkedIn: in/william-dai-uw/
 
 <!--
 **will2dai4/will2dai4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
