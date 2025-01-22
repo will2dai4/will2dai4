@@ -1,4 +1,4 @@
-## Hi there, I'm William, a first-year math student at the University of Waterloo! 👋
+## Hi there, I'm William, a first-year student at the University of Waterloo! 👋
 
 ### 📫 How to reach me:
 - **Email**: william.dai@uwaterloo.ca
