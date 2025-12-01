@@ -5,8 +5,9 @@ The world is MY oyster. Incoming at Fable Security.
 
 ### 📫 How to reach me:
 ![Mail](https://img.shields.io/badge/william.dai@uwaterloo.ca-gray?style=for-the-badge)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-dai-uw/)
-![Portfolio](https://img.shields.io/badge/Portfolio-cyan?style=for-the-badge&link=https://williamdai.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cyan?style=for-the-badge)](https://williamdai.dev/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge)](https://www.linkedin.com/in/william-dai-uw/)
+[![X](https://img.shields.io/badge/X/Twitter-%23000000.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/William2Dai)
 
 <div align="center">
   
