@@ -4,6 +4,8 @@
 - **Email**: william.dai@uwaterloo.ca
 - **LinkedIn**: [in/william-dai-uw/](https://www.linkedin.com/in/william-dai-uw/)
 - [**Portfolio**](https://williamdai.dev/)
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=will2dai4)
 <!--
 **will2dai4/will2dai4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
