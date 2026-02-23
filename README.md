@@ -1,7 +1,7 @@
 ## Hi there, I'm William, a computer science student at the University of Waterloo! 👋
 
 ### 🤖 About me:
-The world is MY oyster. Incoming at Fable Security.
+The world is MY oyster. SWE at Fable Security.
 
 ### 📫 How to reach me:
 ![Mail](https://img.shields.io/badge/william.dai@uwaterloo.ca-gray?style=for-the-badge)
