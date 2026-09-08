@@ -1,7 +1,7 @@
 ## Hi there, I'm William, a computer science student at the University of Waterloo! 👋
 
 ### 🤖 About me:
-The world is MY oyster. Incoming @ Shopify. Previous SWE Intern @ Fable Security.
+The world is MY oyster. Infra @ Shopify. 
 
 ### 📫 How to reach me:
 ![Mail](https://img.shields.io/badge/william.dai@uwaterloo.ca-gray?style=for-the-badge)
